@@ -1,0 +1,11 @@
+{
+  "name": "Liss 2",
+  "description": "Nft Liss 2",
+  "image": "https://raw.githubusercontent.com/Michael-bit39/nft-coll/main/2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Liss 2"
+    }
+  ]
+}
