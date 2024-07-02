@@ -1,27 +1,11 @@
 {
   "name": "Liss 0",
-  "description": "Liss 0.",
-  "image": "https://s.getgems.io/nft/c/62695cb92d780b7496caea3a/nft/56/629b9349e034e8e582cf6448.png",
+  "description": "Nft Liss 0",
+  "image": "https://raw.githubusercontent.com/Michael-bit39/nft-coll/main/0.jpg",
   "attributes": [
     {
-      "trait_type": "Material",
-      "value": "Wool fabric"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Top hat"
-    },
-    {
-      "trait_type": "Glasses",
-      "value": "None"
-    },
-    {
-      "trait_type": "Item",
-      "value": "None"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Dark"
+      "trait_type": "Type",
+      "value": "Liss 0"
     }
   ]
 }
